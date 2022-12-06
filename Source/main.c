@@ -63,7 +63,6 @@ int main(void)
 	
 	// ICU Stuff
 	uint16_t a, b, c;
-	//SET_BIT(PORTD, PD6);			// Turn ON pull-up resistor
 	
 	// LCD Stuff
 	LCD_Init();
